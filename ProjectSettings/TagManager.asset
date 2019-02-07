@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - Map
+  - 
+  - Countries
+  - CountryButtons
+  - Basic UI
+  - Uppder UI
+  - ' Buttons UI'
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Butons UI
+    uniqueID: 4031442281
+    locked: 0
+  - name: UI
+    uniqueID: 820538091
+    locked: 0
+  - name: LowButton
+    uniqueID: 1511100121
+    locked: 0
+  - name: potato
+    uniqueID: 520113021
+    locked: 0
+  - name: MidButton
+    uniqueID: 3662575087
+    locked: 0
+  - name: FinalButton
+    uniqueID: 447620561
+    locked: 0
+  - name: FinalText
+    uniqueID: 3958104903
+    locked: 0
+  - name: Tutorial
+    uniqueID: 1149477885
+    locked: 0
